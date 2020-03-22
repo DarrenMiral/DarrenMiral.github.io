@@ -116,7 +116,8 @@ Regardless of the validity of the tests, given my fairly introverted nature it i
 <br>After doing some reading about the Raspberry Pi and the fact that it uses Python, I decided to try learn enough Python to program a Raspberry Pi to do as proposed.  My motivation behind this is that I frequently leave the door open for hours unintentionally, and believe that an internet-controlled garage door would solve this issue.  As most “off the shelf” solutions are either expensive, are connected to digital assistants (which I do not use) or require other home automation equipment, I believe this to be a good solution.
 </p>
 <h4>Description</h4>
-<p></p>
+<p>Garage door opening mechanisms work by completing a circuit which starts the motor used to wind the door up and down.  A Raspberry Pi will be connected via a relay switch so that the Raspberry Pi controlled switch becomes the component that controls the motor.<br>
+<br>This Raspberry Pi will also be used to host a simple website that allows you to both view the status of the door and control it as necessary, from anywhere in the world.</p>
 <h4>Tools and Technologies</h4>
 <p>This project will require the following hardware: a Raspberry Pi; a relay; wiring; a magnetic switch (which will be used to determine if the door is open or closed) and ethernet cabling.  An IDE will be required for the programming and a text editor like Notepad++ while likely be required for the website. </p>
 <h4>Skills Required</h4>
