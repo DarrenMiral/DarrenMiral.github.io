@@ -1,7 +1,7 @@
 <html>
 <body>
 
-<h1>COSC2196 Assignment 01</h1>
+<h1 style="text-align:center;">COSC2196 Assignment 01</h1>
 
 <h3>Personal Information</h3>
 
@@ -45,7 +45,7 @@ As I have none of these qualifications or certifications, they would be complete
 <h4>Learning Style test (VARK)</h4>
 <p>Multimodal (VARK) (Visual 10, Aural 4, Read/Write 8; Kinesthetic 12)</p>
 
-<h4Big 5 Personality test</h4>
+<h4>Big 5 Personality test</h4>
 
 
 <p>These test results engender mixed feelings.  I believe that elements of the MBTI do accurately reflect my personality, particularly those close to the ends of the spectrums of each individual dichotomy such as Introversion (as opposed to Extroversion) and Thinking (as opposed to feeling).  It is also consistent with a formal MBTI test I took in the final year of high school.  However, the MBTI is not a validated psychological test and is not based on any empirical evidence (Stromberg and Caswell, 2020), which should limit its usefulness.  Despite this, I am also aware that it is fairly commonly in hiring within certain industries.  The Big 5 Personality test is one that is scientifically valid, and therefore holds more weight.  It is interesting that despite the MBTI not being validated, in my case the two tests do appear to provide similar results. 
