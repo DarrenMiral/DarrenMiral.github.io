@@ -1,9 +1,9 @@
 <html>
 <body>
 
-# COSC2196 Assignment 01
+<h1>COSC2196 Assignment 01</h1>
 
-## Personal Information
+<h3>Personal Information</h3>
 
 <p>Name: Darren Miral<br>
 Student Number: s3858795<br>
@@ -17,7 +17,15 @@ I have an intellectual curiosity regarding a number of subjects such as history,
 <h4>What is your interest in IT?</h4>
 <p>My interest in IT stems from an interest in video games and enjoying researching various computers and computer components.  I also enjoy occasionally troubleshooting issues as they arise, both in the context of IT and elsewhere.  My interest in video games began when I was in primary school and learnt how to use a GameBoy emulator on my PC to play Pokemon, which was quite exciting as I didn’t have a GameBoy myself, and continued through various strategy games such as WarCraft 2, Age of Empires and Starcraft during my teenage years.  I have also developed a bit of an interesting in computer programming through downloading and occasionally minorly manipulating mods of games in recent years.  Beyond building my own PC, servicing various laptop computers I’ve owned through school and university and setting up a NAS to store multimedia files, I have very little IT experience.</p>
 
+<h4> Why did you choose to come to RMIT?</h4>
+<p>I chose RMIT for both intellectual and practical reasons.  The intellectual reasons were two-fold.  The reputation of the university as one of the better ones in the country, and one of the top ones in the state was the first.  The second was due to reading from past students that RMIT provides more practical teaching than some other institutions and has a positive reputation within industry, which should theoretically help with finding employment in the future.  The practical reason for studying at RMIT was that I live in Melbourne, which is obviously where RMIT is based.</p>
 
+<h4>What do you expect to learn during your studies?</h4>
+<p>Learning programming skills, the installation and management of IT networks and equipment and potentially learning about cyber security were the major areas I hoped to learn from my time at RMIT.  I also expected that there would be some software and website development to be learnt in this course.</p>
+
+<h3>Ideal Job</h3>
+<p>As someone with no formal experience in the IT industry, the job description for a Network Engineer (Network Engineer job description and duties | Robert Half, 2020) sounds appealing.  Designing, installing and configuring network equipment sounds like a good mix of hands-on work while also requiring significant thought and planning, things I believe to be my strengths.  I enjoy problem solving, and this appears to also be a significant aspect of the job.<br>
+This job advertisement I’ve chosen <a href="https://www.seek.com.au/job/41134226">is the following</a> <br>
 
 
 </body>
