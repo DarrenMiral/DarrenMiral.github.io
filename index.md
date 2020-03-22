@@ -122,6 +122,7 @@ Regardless of the validity of the tests, given my fairly introverted nature it i
 <h4>Outcome</h4>
 <p></p>
 
+<br>
 <h3>References</h3>
 <p>Roberthalf.com.au. 2020. Network Engineer Job Description And Duties | Robert Half. [online] Available at: <https://www.roberthalf.com.au/employers/it-technology/network-engineer-jobs> [Accessed 16 March 2020].<br>
 <br>New Horizons Worldwide. 2020. How To Become A Network Engineer. [online] Available at: <https://www.newhorizons.com/article/how-to-become-a-network-engineer> [Accessed 16 March 2020].<br>
