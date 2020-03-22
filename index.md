@@ -110,17 +110,19 @@ Regardless of the validity of the tests, given my fairly introverted nature it i
 <h3>Project Idea</h3>
 
 <h4>Overview</h4>
-<p></p>
+<p>I propose to build a Raspberry Pi powered remote garage door opener, programmed it using Python, that feeds the open/shut status of the door to a dedicated website from where the door can be controlled.</p>
 <h4>Motivation</h4>
-<p></p>
+<p>As someone with zero programming experience, I believe using this project as a means to learn the basics of another programming language would be beneficial.<br>  
+<br>After doing some reading about the Raspberry Pi and the fact that it uses Python, I decided to try learn enough Python to program a Raspberry Pi to do as proposed.  My motivation behind this is that I frequently leave the door open for hours unintentionally, and believe that an internet-controlled garage door would solve this issue.  As most “off the shelf” solutions are either expensive, are connected to digital assistants (which I do not use) or require other home automation equipment, I believe this to be a good solution.
+</p>
 <h4>Description</h4>
 <p></p>
 <h4>Tools and Technologies</h4>
-<p></p>
+<p>This project will require the following hardware: a Raspberry Pi; a relay; wiring; a magnetic switch (which will be used to determine if the door is open or closed) and ethernet cabling.  An IDE will be required for the programming and a text editor like Notepad++ while likely be required for the website. </p>
 <h4>Skills Required</h4>
-<p></p>
+<p>The major skill required for this project will be learning enough Python to write my own code to have the Raspberry Pi control the door and respond to inputs from the website made.  I will also need to learn enough HTML to create the website.  The required hardware will also need to be purchased, and although none of the components are particularly specialised the current global climate may make purchasing such items more difficult.  </p>
 <h4>Outcome</h4>
-<p></p>
+<p>Successful completion of this project will result in both tangible and less tangible outcomes.  The tangible outcome will be a garage door that can be opened over the internet.  The less tangible outcomes will be my having learnt some Python and HTML skills.</p>
 
 <br>
 <h3>References</h3>
