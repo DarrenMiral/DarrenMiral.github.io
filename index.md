@@ -47,7 +47,57 @@ As I have none of these qualifications or certifications, they would be complete
 <p>Multimodal (VARK) (Visual 10, Aural 4, Read/Write 8; Kinesthetic 12)</p>
 
 <h4>Big 5 Personality test</h4>
+<style>
+table {
+  width:100%;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+table#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+table#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+table#t01 th {
+  background-color: black;
+  color: white;
+}
+</style>
+</head>
+<body>
 
+<table id="t01">
+  <tr>
+    <th>Trait</th>
+    <th>Sub-traits</th> 
+  </tr>
+  <tr>
+    <td>Extraversion <b>23</b></td>
+    <td>Sociability 0<br> Assertiveness 62<br> Energy Level 5</td>
+  </tr>
+  <tr>
+    <td>Agreeableness <b>52</b></td>
+    <td>Compassion 62<br>Respectfullness 50<br>Trust 44</td>
+  </tr>
+  <tr>
+    <td>Conscientiousness <b>50</b></td>
+    <td>Organisation 38<br>Productiveness 31<br>Responsibility 81</td>
+  </tr>
+  <tr>
+    <td>Negative Emotionality <b>29</b></td>
+  </tr>
+  <tr>
+    <td>Openmindedness <b>52</b></td>
+    <td>Intellectual Curiosity 69<br>Aesthetic Sensitivity 38<br>Creative Imagination 12</td>
+  </tr>
+</table>
 
 <p>These test results engender mixed feelings.  I believe that elements of the MBTI do accurately reflect my personality, particularly those close to the ends of the spectrums of each individual dichotomy such as Introversion (as opposed to Extroversion) and Thinking (as opposed to feeling).  It is also consistent with a formal MBTI test I took in the final year of high school.  However, the MBTI is not a validated psychological test and is not based on any empirical evidence (Stromberg and Caswell, 2020), which should limit its usefulness.  Despite this, I am also aware that it is fairly commonly in hiring within certain industries.  The Big 5 Personality test is one that is scientifically valid, and therefore holds more weight.  It is interesting that despite the MBTI not being validated, in my case the two tests do appear to provide similar results.<br> 
 <br>
