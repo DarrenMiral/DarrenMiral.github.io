@@ -92,6 +92,7 @@ table#t01 th {
   </tr>
   <tr>
     <td>Negative Emotionality <b>29</b></td>
+    <td></td>
   </tr>
   <tr>
     <td>Openmindedness <b>52</b></td>
