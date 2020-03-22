@@ -8,7 +8,8 @@
 <p><b>Name:</b> Darren Miral<br>
 <b>Student Number:</b> s3858795<br>
 <b>email:</b> darren.miral@gmail.com or s3858795@student.rmit.edu.au<br>
-<b>Background Information:</b> I was born and raised in Melbourne, Australia to Sri Lankan immigrants.  While I have never lived outside of Melbourne, I have travelled to a number of countries including the US, Canada, the UK and a number of countries in Central Europe <br> 
+<b>Background Information:</b> I was born and raised in Melbourne, Australia to Sri Lankan immigrants.  While I have never lived outside of Melbourne, I have travelled to a number of countries including the US, Canada, the UK and a number of countries in Central Europe.<br>
+<br>
 I completed in High School 2006 and obtained a Bachelors Degree in Medicine from Monash University in 2012.  I stopped working as a doctor after feeling a burnt out, tired of dealing with large numbers of strangers every day and unsure if it was the career I wanted.<br>
 <br>
 I have an intellectual curiosity regarding a number of subjects such as history, astronomy, chemistry and fine art and love quiz shows.  The National Football League (the major professional American football league) is also a significant interest of mine, and it is quite common for me to be awake before dawn on Monday mornings during the season to watch my team play.</p>
@@ -26,6 +27,7 @@ I have an intellectual curiosity regarding a number of subjects such as history,
 
 <h3>Ideal Job</h3>
 <p>As someone with no formal experience in the IT industry, the job description for a Network Engineer (Network Engineer job description and duties | Robert Half, 2020) sounds appealing.  Designing, installing and configuring network equipment sounds like a good mix of hands-on work while also requiring significant thought and planning, things I believe to be my strengths.  I enjoy problem solving, and this appears to also be a significant aspect of the job.<br>
+<br>
 This job advertisement I’ve chosen <a href="https://www.seek.com.au/job/41134226">is the following:</a> <br>
 <br>
 <img src="screencaptureseek.png" alt="Job Advertisement">
@@ -105,5 +107,26 @@ Learning Styles tests are another commonly used psychological test outside of ac
 <br>
 Regardless of the validity of the tests, given my fairly introverted nature it is still important for me to understand my personality and how it may be perceived by others, particular in a team.  It is likely that I will have to endeavour to actively communicate to match that of other members of the team and to be more organised.  More broadly, when forming a team, it can be beneficial to ensure that the entire team is not made up of similar personalities as long as they are able to communicate effectively.  A varied group of personalities may lead to more broad ideas and could prevent one-track thinking, while also containing people that will delve into the details as required.  Being aware of the various personality traits, particularly those defined by the Big 5, can also lead to improved team harmony and a more enjoyable and productive experience. </p>
 
+<h3>Project Idea</h3>
+
+<h4>Overview</h4>
+<p></p>
+<h4>Motivation</h4>
+<p></p>
+<h4>Description</h4>
+<p></p>
+<h4>Tools and Technologies</h4>
+<p></p>
+<h4>Skills Required</h4>
+<p></p>
+<h4>Outcome</h4>
+<p></p>
+
+<h3>References</h3>
+<p>Roberthalf.com.au. 2020. Network Engineer Job Description And Duties | Robert Half. [online] Available at: <https://www.roberthalf.com.au/employers/it-technology/network-engineer-jobs> [Accessed 16 March 2020].<br>
+<br>New Horizons Worldwide. 2020. How To Become A Network Engineer. [online] Available at: <https://www.newhorizons.com/article/how-to-become-a-network-engineer> [Accessed 16 March 2020].<br>
+<br>Stromberg, J. and Caswell, E., 2020. Why The Myers-Briggs Test Is Totally Meaningless. [online] Vox. Available at: <https://www.vox.com/2014/7/15/5881947/myers-briggs-personality-test-meaningless> [Accessed 17 March 2020]. <br>
+<br>Willingham, D., Hughes, E. and Dobolyi, D., 2015. The Scientific Status of Learning Styles Theories. Teaching of Psychology, 42(3), pp.266-271.<br>
+</p>
 
 </body>
