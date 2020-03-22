@@ -35,7 +35,24 @@ The Bachelor of IT offered by RMIT through Open Universities Australia requires 
 
 Beyond this degree, it is clear that further certification is required (How to Become a Network Engineer, 2020) beginning with CCNA (Cisco Certified Network Associate) or similar such as JNCIA – Junos which I believe to be a similar certification using competing equipment.  Other certifications such as the Microsoft Certified Solutions Associate (MCSA) certification in Windows Server 2016 and IT Infrastructure Library (ITIL) certifications could also be of use, while this job in particular would also require the Palo Alto Networks Certified Cybersecurity Associate (PCCSA) certification at a minimum – or more likely the more advanced Palo Alto Networks Certified Network Security Administrator (PCNSA) certification. <br>
 
-As I have none of these qualifications or certifications, they would be completed either just before or during working as a network administrator to gain experience before being seen as qualified to be hired as a Network Engineer.<br>
+As I have none of these qualifications or certifications, they would be completed either just before or during working as a network administrator to gain experience before being seen as qualified to be hired as a Network Engineer./p>
+
+<h3>Personal Profile</h3>
+
+<h4>Myers-Briggs Type Indicator (MBTI) test</h4>
+<p><b>INTJ</b> (Introvert 81%; Intuitive 6%; Thinking 41%; Judging 28%;)</p>
+
+<h4>Learning Style test (VARK)</h4>
+<p>Multimodal (VARK) (Visual 10, Aural 4, Read/Write 8; Kinesthetic 12)</p>
+
+<h4Big 5 Personality test</h4>
+
+
+<p>These test results engender mixed feelings.  I believe that elements of the MBTI do accurately reflect my personality, particularly those close to the ends of the spectrums of each individual dichotomy such as Introversion (as opposed to Extroversion) and Thinking (as opposed to feeling).  It is also consistent with a formal MBTI test I took in the final year of high school.  However, the MBTI is not a validated psychological test and is not based on any empirical evidence (Stromberg and Caswell, 2020), which should limit its usefulness.  Despite this, I am also aware that it is fairly commonly in hiring within certain industries.  The Big 5 Personality test is one that is scientifically valid, and therefore holds more weight.  It is interesting that despite the MBTI not being validated, in my case the two tests do appear to provide similar results. 
+  
+Learning Styles tests are another commonly used psychological test outside of academic psychology that is of questionable utility (Willingham, Hughes and Dobolyi, 2015).  Given the vague result I obtained from the VARK test, I believe that it would be of limited value to me, both during this course and in the workplace.
+
+Regardless of the validity of the tests, given my fairly introverted nature it is still important for me to understand my personality and how it may be perceived by others, particular in a team.  It is likely that I will have to endeavour to actively communicate to match that of other members of the team and to be more organised.  More broadly, when forming a team, it can be beneficial to ensure that the entire team is not made up of similar personalities as long as they are able to communicate effectively.  A varied group of personalities may lead to more broad ideas and could prevent one-track thinking, while also containing people that will delve into the details as required.  Being aware of the various personality traits, particularly those defined by the Big 5, can also lead to improved team harmony and a more enjoyable and productive experience. </p>
 
 
 </body>
