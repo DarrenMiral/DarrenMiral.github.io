@@ -1,10 +1,9 @@
-<!DOCTYPE html>
 <html>
 <body>
 
-<h1>COSC2196 Assignment 01</h1>
+# COSC2196 Assignment 01
 
-<h3>Personal Information</h3>
+## Personal Information
 
 <p>Name: Darren Miral<br>
 Student Number: s3858795<br>
