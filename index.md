@@ -70,7 +70,6 @@ table#t01 th {
   color: white;
 }
 </style>
-</head>
 <body>
 
 <table id="t01">
@@ -108,4 +107,3 @@ Regardless of the validity of the tests, given my fairly introverted nature it i
 
 
 </body>
-</html>
