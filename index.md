@@ -5,10 +5,10 @@
 
 <h3>Personal Information</h3>
 
-<p>Name: Darren Miral<br>
-Student Number: s3858795<br>
-email: darren.miral@gmail.com or s3858795@student.rmit.edu.au<br>
-Background Information: I was born and raised in Melbourne, Australia to Sri Lankan immigrants.  While I have never lived outside of Melbourne, I have travelled to a number of countries including the US, Canada, the UK and a number of countries in Central Europe <br> 
+<p><b>Name:</b> Darren Miral<br>
+<b>Student Number:</b> s3858795<br>
+<b>email:</b> darren.miral@gmail.com or s3858795@student.rmit.edu.au<br>
+<b>Background Information:</b> I was born and raised in Melbourne, Australia to Sri Lankan immigrants.  While I have never lived outside of Melbourne, I have travelled to a number of countries including the US, Canada, the UK and a number of countries in Central Europe <br> 
 I completed in High School 2006 and obtained a Bachelors Degree in Medicine from Monash University in 2012.  I stopped working as a doctor after feeling a burnt out, tired of dealing with large numbers of strangers every day and unsure if it was the career I wanted.<br>
 <br>
 I have an intellectual curiosity regarding a number of subjects such as history, astronomy, chemistry and fine art and love quiz shows.  The National Football League (the major professional American football league) is also a significant interest of mine, and it is quite common for me to be awake before dawn on Monday mornings during the season to watch my team play.</p>
