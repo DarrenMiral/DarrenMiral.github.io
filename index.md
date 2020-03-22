@@ -25,7 +25,14 @@ I have an intellectual curiosity regarding a number of subjects such as history,
 
 <h3>Ideal Job</h3>
 <p>As someone with no formal experience in the IT industry, the job description for a Network Engineer (Network Engineer job description and duties | Robert Half, 2020) sounds appealing.  Designing, installing and configuring network equipment sounds like a good mix of hands-on work while also requiring significant thought and planning, things I believe to be my strengths.  I enjoy problem solving, and this appears to also be a significant aspect of the job.<br>
-This job advertisement I’ve chosen <a href="https://www.seek.com.au/job/41134226">is the following</a> <br>
+This job advertisement I’ve chosen <a href="https://www.seek.com.au/job/41134226">is the following:</a> <br>
+
+<img src="screencaptureseek.png" alt="Job Advertisement">
+
+<p>In order to be qualified for a similar job to this, I believe it will require 5+ years of learning and on the job experience, beginning with this course.<br>
+The Bachelor of IT offered by RMIT through Open Universities Australia requires four electives to be completed.  After examining the Degree Guide, I believe that the following electives would probably be the most relevant in furthering me towards this career: Unix System Administration (CPT264); Programming Principles 2A (CPT 220); Object-Oriented Programming in C++ (CPT323); and Cloud Computing (CPT350).<br>
+Beyond this degree, it is clear that further certification is required (How to Become a Network Engineer, 2020) beginning with CCNA (Cisco Certified Network Associate) or similar such as JNCIA – Junos which I believe to be a similar certification using competing equipment.  Other certifications such as the Microsoft Certified Solutions Associate (MCSA) certification in Windows Server 2016 and IT Infrastructure Library (ITIL) certifications could also be of use, while this job in particular would also require the Palo Alto Networks Certified Cybersecurity Associate (PCCSA) certification at a minimum – or more likely the more advanced Palo Alto Networks Certified Network Security Administrator (PCNSA) certification. <br>
+As I have none of these qualifications or certifications, they would be completed either just before or during working as a network administrator to gain experience before being seen as qualified to be hired as a Network Engineer.<br>
 
 
 </body>
